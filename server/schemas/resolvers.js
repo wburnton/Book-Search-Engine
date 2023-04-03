@@ -41,15 +41,7 @@ Mutation: {
                     new: true,
                     runValidators: true,
                   }  
-                  
-
-
-
-            
-
-
-
-            );
+                );
             return book;
         }
       },
